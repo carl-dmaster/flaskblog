@@ -1,3 +1,3 @@
 # flaskblog
 
-A flask framework blog application
+A flask framework blog application!
